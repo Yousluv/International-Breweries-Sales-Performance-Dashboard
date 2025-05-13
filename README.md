@@ -1,5 +1,6 @@
 # International-Breweries-Sales-Performance-Dashboard
 
+![](DASHB3.png)
 ## 1. Introduction
 This report outlines the development, analysis, and insights derived from the International Breweries Sales Performance Dashboard, which evaluates the company's regional and global sales activities over the period of 2017 to 2019. It is designed for decision-makers seeking to optimize marketing strategies, improve sales outcomes, and expand into profitable markets.
 
