@@ -36,27 +36,31 @@ The dataset was extracted from Kaggle. These included transactional records of:
 
 ## 7. Exploratory Data Analysis (EDA)
 EDA was conducted using pivot tables and slicers. Key exploration dimensions included:
-•	Temporal trends in profit (2017–2019)
 •	Performance comparisons across countries, brands, and sales reps
 •	Profit contribution by region and language category
-•	Brand revenue hierarchy
+•	Brand revenue 
 ## 8. Insights from Dashboard Charts
-Brands by Revenue Generated
+### Brands by Revenue Generated
+![](Brands.png)
 •	Castle Lite and Budweiser were the top revenue generators, earning $34.6M and $31.6M respectively.
 •	Lower-performing brands included Hero and Trophy, each contributing around $6.4M.
-Profit Generated Across Countries
+### Profit Generated Across Countries
+![](Country.png)
 •	Senegal led in profitability at $21.49M, closely followed by Nigeria at $21.38M.
 •	Togo had the lowest contribution among the top five countries.
 ### Top 6 Sales Representatives
+![](Salesrep.png)
 •	Jones was the highest-performing sales rep, generating $18.7M, with a significant lead over others.
 •	Other top contributors include Jardine, Gill, and Sorvino.
 Profit by Year
 •	2017 was the most profitable year ($38.5M), followed by 2019 and 2018.
 •	Indicates potential strategic success in 2017 marketing and sales campaigns.
 ### Performance Analysis by Country Language
+![](Countrylang.png)
 •	Anglophone countries accounted for 60% of overall performance.
 •	Francophone countries contributed 40%, suggesting opportunities for market expansion.
-Region Performance by Profit
+### Region Performance by Profit
+![](Region.png)
 •	South-South and West regions had the highest profit contributions (~$17.7M each).
 •	Northwest was the lowest-performing region at $17.3M.
 
