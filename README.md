@@ -76,3 +76,4 @@ Profit by Year
 ### 10. Conclusion
 The International Breweries Sales Performance Dashboard provides a holistic view of the company’s sales dynamics from 2017 to 2019. Leveraging data visualization, it reveals key strengths, underperforming areas, and untapped opportunities across brands, regions, and representatives. With targeted actions based on these insights, the company can drive stronger profitability and sustained growth.
 
+
